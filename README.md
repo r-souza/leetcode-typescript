@@ -18,9 +18,9 @@ On this repository, I will solve the problems in TypeScript, and I will try to s
 
 ## Problem List
 
-| #    | Title                                                               | Solution                                          | Difficulty |
-| ---- | ------------------------------------------------------------------- | ------------------------------------------------- | ---------- |
-| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./src/problems/13/roman-to-integer.ts) | Easy       |
+| #    | Title                                                               | Solution                                            | Difficulty |
+| ---- | ------------------------------------------------------------------- | --------------------------------------------------- | ---------- |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./src/problems/0013/roman-to-integer.ts) | Easy       |
 
 ## Template 
 
