@@ -34,12 +34,12 @@ Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-ty
 [ts-badge]: https://img.shields.io/badge/TypeScript-4.9-blue.svg
 [nodejs-badge]: https://img.shields.io/badge/Node.js->=%2018.12-blue.svg
 [nodejs]: https://nodejs.org/dist/latest-v18.x/docs/api/
-[gha-badge]: https://github.com/jsynowiec/node-typescript-boilerplate/actions/workflows/nodejs.yml/badge.svg
-[gha-ci]: https://github.com/jsynowiec/node-typescript-boilerplate/actions/workflows/nodejs.yml
+[gha-badge]: https://github.com/r-souza/leetcode-typescript/actions/workflows/nodejs.yml/badge.svg
+[gha-ci]: https://github.com/r-souza/leetcode-typescript/actions/workflows/nodejs.yml
 [typescript]: https://www.typescriptlang.org/
 [typescript-4-9]: https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/
 [license-badge]: https://img.shields.io/badge/license-APLv2-blue.svg
-[license]: https://github.com/jsynowiec/node-typescript-boilerplate/blob/main/LICENSE
+[license]: https://github.com/r-souza/leetcode-typescript/blob/main/LICENSE
 [sponsor-badge]: https://img.shields.io/badge/♥-Sponsor-fc0fb5.svg
 [sponsor]: https://github.com/sponsors/jsynowiec
 [jest]: https://facebook.github.io/jest/
