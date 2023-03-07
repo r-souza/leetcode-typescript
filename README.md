@@ -24,6 +24,7 @@ On this repository, I will solve the problems in TypeScript, and I will try to s
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)             | [Solution](./src/problems/0009/palindrome-number.ts)   | Easy       |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)               | [Solution](./src/problems/0013/roman-to-integer.ts)    | Easy       |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)      | [Solution](src/problems/0014/longest-common-prefix.ts) | Easy       |
+| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)               | [Solution](src/problems/0724/find-pivot-index.ts)      | Easy       |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](src/problems/1480/running-sum.ts)           | Easy       |
 
 
